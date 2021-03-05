@@ -1,0 +1,32 @@
+.Intro {
+    text-align: center;
+    margin: 2rem;
+}
+h1 {
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+p {
+    font-size: 1.5rem !important;
+    text-transform: capitalize;
+}
+button {
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+    border: none;
+    background-color: crimson;
+    cursor: pointer;
+}
+button:hover {
+    color: white;
+    background-color: rgb(220, 20, 60, 0.8);
+    transition: all 0.5s;
+}
+button:focus {
+    color: white;
+    border: none;
+    border-radius: 10px;
+}

@@ -1,0 +1,37 @@
+.team-list {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px; 
+}
+.title {
+    margin-bottom: 15px;
+}
+
+.cart {
+    display: flex;
+    background-color: crimson;
+    border-radius: 10px;
+    padding:  8px 10px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 98%;
+}
+.cart:hover {
+    color: white;
+    transition: all 0.5s;
+}
+li {
+    list-style: none;
+    font-size: 1.5rem;
+
+}
+.price {
+    font-size: 1.2rem !important;
+}
+.total {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    width: 98%;
+    padding:  8px 10px;
+}

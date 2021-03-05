@@ -1,0 +1,210 @@
+[
+    
+        {
+        "name":"Tamim Iqbal",
+        "role":"Opening batsman",
+        "BattingStyle":"Left-hand bat",
+        "BowlingStyle":"",
+        "Age":"31 years",
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170899/tamim-iqbal.jpg",
+        "Ranking": "22",
+        "price" : "5",
+        "key" : "1"
+        },
+        {
+        "name":"Al-Amin Hossain",
+        "role":"Bowler",
+        "BattingStyle":" Right-hand bat",
+        "BowlingStyle":"Right-arm medium-fast",
+        "Age":"31 years",
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156217/al-amin-hossain.jpg",
+        "Ranking":"",
+        "price" : "3",
+        "key" : "2"
+        },
+        {
+        "name":"Hasan Mahmud",
+        "role":"Bowler",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":"Right-arm medium",
+        "Age":" 21 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303249.jpg",
+        "Ranking":"",
+        "price" : "0.5",
+        "key" : "3"
+        },
+        {
+        "name":"Liton Das",
+        "role":"Wicketkeeper Batsman",
+        "BattingStyle":" Right-hand bat",
+        "BowlingStyle":"",
+        "Age":"26 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg",
+        "Ranking":"41",
+        "price" : "4",
+        "key" : "4"
+        },
+        {
+        "name":"Mahedi Hasan",
+        "role":"Top-order batsman",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":"Right-arm offbreak",
+        "Age":"26 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/286600/286686.1.jpg",
+        "Ranking":"",
+        "price" : "1",
+        "key" : "5"
+        },
+        {
+        "name":"Mahmudullah",
+        "role":" Allrounder",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":"Right-arm offbreak",
+        "Age":"35 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg",
+        "Ranking":"49",
+        "price" : "5",
+        "key" : "6"
+        },
+        {
+        "name":"Mehidy Hasan Miraz",
+        "role":" Allrounder",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":"Right-arm offbreak",
+        "Age":"23 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg",
+        "Ranking":"04",
+        "price" : "4"
+        },
+        {
+        "name":"Mohammad Mithun",
+        "role":"Top-order batsman",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":"",
+        "Age":"29 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303144.jpg",
+        "Ranking":"92",
+        "price" : "2"
+        },
+        {
+        "name":"Mohammad Naim",
+        "role":" Opening batsman",
+        "BattingStyle":" Left-hand bat",
+        "BowlingStyle":"",
+        "Age":" 21 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303235.jpg",
+        "Ranking":"",
+        "price" : "1"
+        },
+        {
+        "name":"Mohammad Saifuddin",
+        "role":"Bowling allrounder",
+        "BattingStyle":"Left-hand bat",
+        "BowlingStyle":"Right-arm medium-fast",
+        "Age":"24 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg",
+        "Ranking":"115",
+        "price" : "3"
+        },
+        {
+        "name":"Mosaddek Hossain",
+        "role":"Middle-order batsman",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":"Right-arm offbreak",
+        "Age":"25 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303147.jpg",
+        "Ranking":"",
+        "price" : "3"
+        },
+        {
+        "name":"Mushfiqur Rahim",
+        "role":"Wicketkeeper Batsman",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":"",
+        "Age":"33 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg",
+        "Ranking":"15",
+        "price" : "5"
+        },
+        {
+        "name":"Mustafizur Rahman",
+        "role":"Bowler",
+        "BattingStyle":"Left-hand bat",
+        "BowlingStyle":"Left-arm fast-medium",
+        "Age":"25 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg",
+        "Ranking":"8",
+        "price" : "5"
+        },
+        {
+        "name":"Masum Ahmed",
+        "role":"Bowler",
+        "BattingStyle":"Left-hand bat",
+        "BowlingStyle":"Slow left-arm orthodox",
+        "Age":"26 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/148300/148317.1.jpg",
+        "Ranking":"",
+        "price" : "0.5"
+        },
+        {
+        "name":"Najmul Hossain Shanto",
+        "role":" Middle-order batsman",
+        "BattingStyle":"Left-hand bat",
+        "BowlingStyle":"Right-arm offbreak",
+        "Age":" 22 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303200/303241.jpg",
+        "Ranking":"",
+        "price" : "1"
+        },
+        {
+        "name":"Rubel Hossain",
+        "role":"Bowler",
+        "BattingStyle":"Right-hand bat",
+        "BowlingStyle":" Right-arm fast",
+        "Age":" 31 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/263500/263594.jpg",
+        "Ranking":"77",
+        "price" : "5"
+        },
+        {
+        "name":"Shoriful Islam",
+        "role":"Bowler",
+        "BattingStyle":" Left-hand bat",
+        "BowlingStyle":"Left-arm medium-fast",
+        "Age":"19 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/286900/286908.1.jpg",
+        "Ranking":"",
+        "price" : "0.5"
+        },
+        {
+                        "name":"Afif Hossain",
+                        "role":" Allrounder",
+                        "BattingStyle":" Left-hand bat",
+                        "BowlingStyle":"Right-arm offbreak",
+                        "Age":"21 years",
+                        "image": "https://media.gettyimages.com/photos/afif-hossain-poses-during-the-bangladesh-icc-u19-cricket-world-cup-picture-id902065018?s=612x612",
+                        "Ranking":"",
+                        "price" : "2"
+        },
+        {
+        "name":"Soumya Sarkar",
+        "role":" Middle-order batsman",
+        "BattingStyle":"Left-hand bat",
+        "BowlingStyle":"Right-arm medium-fast",
+        "Age":" 27 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg",
+        "Ranking":"46",
+        "price" : "4"
+        },
+        {
+        "name":"Taskin Ahmed",
+        "role":"Bowler",
+        "BattingStyle":"Left-hand bat",
+        "BowlingStyle":"Right-arm fast",
+        "Age":" 25 years",
+        "image": "https://p.imgci.com/db/PICTURES/CMS/303100/303169.jpg",
+        "Ranking":"100",
+        "price" : "4"
+        }
+    
+]
